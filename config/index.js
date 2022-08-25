@@ -1,7 +1,7 @@
 const CONFIG = {
   // ================================基础配置 - 无需修改================================
   // 和风天气API
-  HEFENG_API_KEY: "6ab01632e2b44936b4951d8019007eab",
+  HEFENG_API_KEY: "2b28f42e1d8b4e56bf50edbcf8d8950e",
 
   // ================================高级配置 - 需要修改================================
 
@@ -12,7 +12,7 @@ const CONFIG = {
   APP_SECRET: "d09194fcfdcf785e92023493a683c608",
 
   // 微信公众号的模板ID
-  TEMPLATE_ID: "I24sAMIZeiK0mZGtLphhgcTi5J8CskZc99AekwpehQQ",
+  TEMPLATE_ID: "aivZqirpLI-RhK3clPJaSgkWUp95C05YPBvHIExWYhA",
 
   // 天行API的key
   TXApiKey: "4275fd11fb0f83283d740d60439a8214",
@@ -62,8 +62,6 @@ const CONFIG = {
     saylove: true,
     // 健康小提示
     healthtip: true,
-    // 毒鸡汤
-    duJiTang: true,
     // 早安心语
     zaoAn: true,
     // 晚安心语
