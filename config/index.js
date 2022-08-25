@@ -6,38 +6,46 @@ const CONFIG = {
   // ================================高级配置 - 需要修改================================
 
   // 微信公众号的appID
-  APP_ID: "wx8cce380b885eda7b",
+  APP_ID: "wx06f5ac10fefbceb4",
 
   // 微信公众号的appsecret
-  APP_SECRET: "ed4be85c5b4c9ec20ff6a4573c1c0b9e",
+  APP_SECRET: "d09194fcfdcf785e92023493a683c608",
 
   // 微信公众号的模板ID
-  TEMPLATE_ID: "hHFo2kk59WI7Ef8R2Ry0_IMQWbUlWIPLfJd1lIkMkuo",
+  TEMPLATE_ID: "I24sAMIZeiK0mZGtLphhgcTi5J8CskZc99AekwpehQQ",
 
   // 天行API的key
-  TXApiKey: "96fd738b99e30ffa1014dad845cd0764",
+  TXApiKey: "4275fd11fb0f83283d740d60439a8214",
 
   // 用户列表 可配置多个用户
   user: [
     {
       // 男(女)朋友的名字（或昵称或网名）
-      userName: "小沐沐吖",
+      userName: "晴晴",
       // 用户列表的`微信号`
-      userId: "ouvDW5kPNhzombB3FdIeahEeM6CI",
+      userId: "oPiQI6P82Aa502rEits2tPJBetlI",
       // 星座
       star: "摩羯座",
-      // 生日 - 格式：08-22
-      birthday: "01-28",
+      // 生日 - 格式：08-17
+      birthday: "08-17",
       // 城市 - 格式：支持省市县区
-      city: "夏邑县",
+      city: "山东省济南市历下区",
+    }, {
+      // 男(女)朋友的名字（或昵称或网名）
+      userName: "浩浩",
+      // 用户列表的`微信号`
+      userId: "oPiQI6GlKjF_Jmy8Sv5f_mhWbvKg",
+      // 星座
+      star: "摩羯座",
+      // 生日 - 格式：02-09
+      birthday: "02-09",
+      // 城市 - 格式：支持省市县区
+      city: "山东省济南市高新区",
     },
   ],
 
-  // 计划旅游日 - 格式：2022-05-20
-  tourism: "2022-12-12",
-
   // 恋爱纪念日 - 格式：2022-05-20
-  loveDay: "2022-05-20",
+  loveDay: "2020-07-6",
 
   // ================================功能配置 - 可选修改================================
 
